@@ -3,38 +3,59 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 .head1 {
     font-size: 500%;
     font-weight: 3000;
+    color: black !important;
 }
+
+.link {
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.text-card {
+    color: black !important;
+}
+
 /* nav */
 .my-nav {
     background-color: rgba(240, 248, 255, 0.185) !important;
 }
+
 /* div-2 */
-.div-2{
+.div-2 {
     background-color: black;
     color: white;
 }
+
 /* div-4 */
-.div-4{
+.div-4 {
     background-color: black;
     color: white;
     width: 50%;
 }
+
 /* div5 */
 .div-5 {
     width: 50%;
 }
+
 /* footer */
 .footer {
     color: gray;
     background-color: gainsboro;
 }
+
 .item>li {
     list-style: none !important;
 }
+
 .item>li:hover {
     color: black;
-border-bottom: 1px solid black !important;
+    border-bottom: 1px solid black !important;
 }
