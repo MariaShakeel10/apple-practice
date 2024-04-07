@@ -1,0 +1,34 @@
+/* div1 */
+.watch1 {
+
+    background-image: url(../images/watch1.jpg);
+    width: 742px;
+    height: 366px;
+    background-size: 742px 366px;
+    background-repeat: no-repeat;
+
+}
+.div1w {
+    background-color: black;
+    color: white;
+}
+/* div2 */
+.div2w {
+    background-color: white;
+    color:black;
+}
+.watch2 {
+    background-image: url(../images/tile_ultra_2__eq9i8xzpjoya_small_2x.jpg);
+    width: 721px;
+    height: 298px;
+    background-size: 721px 298px;
+    background-repeat: no-repeat;
+}
+/* div3 */
+.div3w {
+    background-color: white;
+}
+/* div4 */
+.div4w {
+    background-color: white;
+}
