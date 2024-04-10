@@ -4,18 +4,29 @@
     box-sizing: border-box;
 }
 
-
 .head1 {
     font-size: 500%;
     font-weight: 3000;
     color: black !important;
 }
+/* .one {
+    color: white !important;
+    background-color: black;
+} */
+
 
 .link {
     text-decoration: none;
 }
 
 .link:hover {
+    text-decoration: underline;
+}
+.link-2 {
+    text-decoration: none;
+    color: brown;
+}
+.link-2:hover {
     text-decoration: underline;
 }
 

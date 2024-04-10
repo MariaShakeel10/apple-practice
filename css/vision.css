@@ -1,0 +1,6 @@
+.text-grey {
+    color: rgb(125, 125, 125);
+}
+.text-grey::first-letter {
+    color: black !important;
+}
