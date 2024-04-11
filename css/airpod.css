@@ -1,0 +1,17 @@
+.div2a {
+    position: relative;
+}
+.text2a {
+    position:absolute;
+    margin: 0 auto !important;
+    top: 25%;
+    right: 40%;
+}
+.img3a {
+    position: relative !important;
+}
+.text3a {
+    position: absolute !important;
+    top: 24%;
+    right: 40%;
+}
