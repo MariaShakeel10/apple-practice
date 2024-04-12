@@ -13,7 +13,9 @@
     color: white !important;
     background-color: black;
 } */
-
+.grey {
+    color: grey;
+}
 
 .link {
     text-decoration: none;
